@@ -7,7 +7,7 @@ pom.xml:
     <repositories>
         <repository>
             <id>davis-maven-repo</id>
-            <url>https://gitee.com/zhangruhong/maven-repo/raw/master/repository</url>
+            <url>https://raw.githubusercontent.com/zhangruhong/maven-repo/master/repository</url>
         </repository>
     </repositories>
 ```
